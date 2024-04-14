@@ -41,4 +41,26 @@ You can view a live demo of the web application [here](https://fyletaxcalculator
 
 ![image](https://github.com/mayankjonwal02/FyleTaxCalculator/assets/97716394/d06efb9b-b5d5-497e-8bfa-7da8717eb3f4)   ![image](https://github.com/mayankjonwal02/FyleTaxCalculator/assets/97716394/028dfa23-e4a3-4e89-873a-94a56c75c8ec)
 
+![image](https://github.com/mayankjonwal02/FyleTaxCalculator/assets/97716394/3476a71b-8c6b-4208-9f49-2853bc0f6f0e)  ![image](https://github.com/mayankjonwal02/FyleTaxCalculator/assets/97716394/2cc28b59-06c2-4913-b95f-1fae1f0c3ed0)
+
+
+
+![image](https://github.com/mayankjonwal02/FyleTaxCalculator/assets/97716394/9781ac4f-521f-4028-8bdc-18a4094d8e82)
+![image](https://github.com/mayankjonwal02/FyleTaxCalculator/assets/97716394/af43b043-6505-48c2-9949-9677470cd6d7)
+![image](https://github.com/mayankjonwal02/FyleTaxCalculator/assets/97716394/25a12a21-b8f4-48b0-a2de-5a4cd7f47824)
+
+
+![image](https://github.com/mayankjonwal02/FyleTaxCalculator/assets/97716394/75a7d14c-7e25-4180-b268-4b9954474bae)
+![image](https://github.com/mayankjonwal02/FyleTaxCalculator/assets/97716394/c46714e6-603a-4919-b5f2-33926e60df0d)
+
+
+
+![image](https://github.com/mayankjonwal02/FyleTaxCalculator/assets/97716394/1a5b3f63-0d95-4bf1-8453-31a47a0b7094)
+![image](https://github.com/mayankjonwal02/FyleTaxCalculator/assets/97716394/d4eb7621-14b3-481b-8597-cbeaf0a1967f)
+
+
+
+
+
+
 
