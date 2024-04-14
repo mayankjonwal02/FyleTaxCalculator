@@ -35,14 +35,10 @@ To run this web application locally, follow these steps:
 
 ## Demo
 
-You can view a live demo of the web application [here](https://fyletaxcalculatormj.z13.web.core.windows.net/).
+You can view a live demo of the web application [here](https://fyletaxcalculatormj.z13.web.core.windows.net/). (Azure Deployment)
 
-## License
+## Test Cases
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+![image](https://github.com/mayankjonwal02/FyleTaxCalculator/assets/97716394/d06efb9b-b5d5-497e-8bfa-7da8717eb3f4)   ![image](https://github.com/mayankjonwal02/FyleTaxCalculator/assets/97716394/028dfa23-e4a3-4e89-873a-94a56c75c8ec)
 
-## Acknowledgements
-
-- This project was inspired by [insert inspiration here].
-- Special thanks to [insert name] for [insert contribution].
 
