@@ -10,10 +10,11 @@ This is a simple web application that calculates the overall income after tax de
 
 ## Technologies Used
 
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- Bootstrap
+- <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" width="20"/> HTML5
+- <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="20"/> CSS3
+- <img src="https://img.icons8.com/color/48/000000/javascript--v2.png" alt="JavaScript (ES6+)" width="20"/> JavaScript (ES6+)
+- <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="20"/> Bootstrap
+
 
 ## Getting Started
 
